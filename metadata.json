@@ -1,0 +1,6 @@
+{
+  "name": "Kéo Co Kỹ Thuật Số",
+  "description": "Hệ sinh thái EdTech đối kháng mô phỏng Kéo co Vật lý kết hợp AI Cá nhân hóa (Adaptive Learning) và phân tích dữ liệu sư phạm chuẩn Bloom.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
